@@ -1,0 +1,34 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	border: none;
+}
+
+.header {
+    background-color: rgba(60, 60, 60, 1);
+    height: 350px;
+}
+
+
+.header img {
+    height: 100%;
+    width: 55%;  
+    float: left;
+    box-shadow: 20px 0px 50px 5px rgba(142, 140, 140, 0.25);
+
+}
+
+.header .text-header {
+    height: 100%;
+    width: 40%;
+    float: right;
+}
+
+.header .text-header p {
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    padding-top: 120px;
+    font-size: 20px;
+}
