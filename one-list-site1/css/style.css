@@ -71,10 +71,13 @@
     width: 50%;
     margin-top: 5%;
     margin-bottom: auto;
+    height: 100%;
+    text-align: center;
 }
 
 .card-1 .left-part img {
-    width: 95%;
+    max-height: 80%;
+    max-width: 95%;
     margin-left: 2.5%;
     margin-right: 2.5%;
 }
